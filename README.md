@@ -48,7 +48,7 @@ https://registrarjornadabylamine.netlify.app/
 
 1. Clona el repositorio:
 
-git clone https://github.com/tuusuario/registro-jornada.git  
+git clone https://github.com/LEMZZOO/registro_jornada
 cd registro-jornada  
 
 2. Abre el proyecto:
